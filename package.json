@@ -17,6 +17,8 @@
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
+    "@cucumber/cucumber": "^8.10.0",
+    "@cucumber/gherkin": "^26.0.3",
     "@rushstack/eslint-patch": "^1.1.4",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vue/eslint-config-prettier": "^7.0.0",
